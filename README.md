@@ -1,3 +1,8 @@
+## GOAL
+Write a HeartTransplant class that has the ability to select the patient, from a pool of patients, with the highest potential to survive the longest after the heart transplant surgery. Used the HeartTransplantDriver to test the methods within the HeartTransplant class.
+
+
+
 ## FILES
 
 **HeartTransplantDriver.java** <br>
