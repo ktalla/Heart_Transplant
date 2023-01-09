@@ -45,7 +45,7 @@ The first line of this section has an integer that refers to the number of survi
  
 The example below has 5 rates, the first rate specifies that people with heart condition cause 4 (heart muscle disease), 1 year post transplant have a survivability rate of 89.4%.You can see the meaning of each code in the Person.java file. <br><br>
 
-**Example**
+**Example** <br>
 3 <br>
 4101  10  13  75  3  8  7 <br>
 4102  11  14  78  4  9  5 <br>
